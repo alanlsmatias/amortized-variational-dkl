@@ -1,10 +1,9 @@
 from setuptools import setup, find_packages
 
 requirements = [
-    'numpy',
+    'numpy==1.26.4',
     'scipy',
     'torch',
-    'torchaudio',
     'torchvision',
     'torchmetrics',
     'torch_geometric',
