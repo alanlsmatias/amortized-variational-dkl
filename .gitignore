@@ -1,0 +1,15 @@
+.venv
+__pycache__
+.ipynb_checkpoints
+
+datasets
+reports
+notebooks/tmp
+*.egg*
+
+.DS_store
+*.log
+*.pt
+*.csv
+*.pickle
+test*
